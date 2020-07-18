@@ -2,6 +2,8 @@
 ## Input:
 ## Output: Oscillator Settings; ASDR
 
+# random text to test github
+
 # 0 = 0
 # 1 = 1/8
 # 2 = 1/4
